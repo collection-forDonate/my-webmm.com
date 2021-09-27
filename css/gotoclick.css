@@ -1,0 +1,70 @@
+.link1 a{
+	width: 150px;
+	margin: 20px;
+	padding: 20px;
+	/*content: "MENU";*/
+	text-decoration: none;
+	font-size: 20px;
+	font-family: arial;
+	color: gold;
+	padding: 0 20px;
+	  text-shadow: 5px 5px 6px #fff;
+
+	font-family: Arial,Century;
+   text-decoration: none;
+   background-color: black;
+   color: gold;
+   font-size: x-large;
+   padding-top: 10px;
+   padding-bottom: 10px;
+   padding-right: 10px;
+   padding-left: 10px;
+   border-radius:50%;
+
+}
+ .link1 a:hover{
+	color: red;
+		 background-color: grey;
+  
+   font-size: 25px;
+   border-radius: 40px;
+   transition: 0.5s;
+}
+p{
+	width: 150px;
+	margin: 20px;
+	padding: 20px;
+	/*content: "MENU";*/
+	text-decoration: none;
+	font-size: 20px;
+	font-family: arial;
+	color: gold;
+	padding: 0 20px;
+	  text-shadow: 5px 5px 6px #fff;
+
+	font-family: Arial,Century;
+   text-decoration: none;
+   background-color: black;
+   color: gold;
+   font-size: x-large;
+   padding-top: 10px;
+   padding-bottom: 10px;
+   padding-right: 10px;
+   padding-left: 10px;
+   border-radius:20%;
+
+}
+ p:hover{
+	color: red;
+		 background-color: skyblue;
+  
+   font-size: 30px;
+   border-radius: 100px;
+   transition: 0.5s;
+}
+body{
+	background-image: url('../webimg/sup2.jpg');
+	background-repeat: no-repeat;
+	background-size: 100%;
+	background-position: center top;
+}
